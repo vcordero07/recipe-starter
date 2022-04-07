@@ -366,3 +366,47 @@ Navbar
     margin-right: 0;
   }
 }
+
+/*
+=============== 
+Main
+===============
+*/
+.page {
+  background: var(--primary-500);
+  width: 90vw;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding-top: 2rem;
+  min-height: calc(100vh - (6rem + 4rem));
+}
+
+
+
+/*
+=============== 
+Footer
+===============
+*/
+.page-footer{
+  height: 4rem;
+  background: var(--black);
+  color: var(--white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.page-footer{
+  margin-bottom: 0;
+}
+
+.footer-logo, .page-footer a {
+  color: var(--primary-500);
+}
+
+/*
+=============== 
+
+===============
+*/
