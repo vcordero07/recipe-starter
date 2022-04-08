@@ -549,6 +549,20 @@ Recipes
 }
 /*
 =============== 
+Error Page 404
+===============
+*/
+.error-page{
+  text-align: center;
+
+}
+
+.error-page h1{
+  font-size: 9rem;
+}
+
+/*
+=============== 
 
 ===============
 */
