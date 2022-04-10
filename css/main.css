@@ -615,6 +615,10 @@ Contact Page
   padding-bottom: 3rem;
 }
 
+#email, #name {
+  width: 100%;
+}
+
 @media screen and (min-width:992px){
   .contact-container{
     grid-template-columns: 1fr 450px;
